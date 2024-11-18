@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 //import org.springframework.web.servlet.ModelAndView;
 
 import com.example.model.Client;
-import com.example.model.ClientList;
+import com.example.database.ClientList;
 import com.example.model.Program;
-import com.example.model.ProgramList;
+import com.example.database.ProgramList;
 
 
 @Controller

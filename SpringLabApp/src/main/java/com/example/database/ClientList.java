@@ -1,7 +1,9 @@
-package com.example.model;
+package com.example.database;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import com.example.model.Client;
 
 public class ClientList {
     private static List<Client> clientlist = new ArrayList<>();
